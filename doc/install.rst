@@ -11,7 +11,7 @@ don't have it you can install it on Debian systems::
 
 And now you can install the autocrypt package::
 
-    pip install --user autocrypt
+    pip install --user muacrypt
 
 And then make sure that ``~/.local/bin`` is contained
 in your ``PATH`` variable.
